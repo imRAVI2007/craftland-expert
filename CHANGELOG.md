@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-23 — GitHub repository setup
+
+- Created the private `craftland-expert` GitHub repository and pushed the existing `main` baseline without rewriting history; no license was selected.
+- Updated the README to reflect the repository's private GitHub location.
+
 ## 2026-11-23 — Production readiness audit
 
 - Added a prioritized Project 6 inspection plan and repo-discoverable project skill under `.agents/skills/` while retaining the original packaging path.
