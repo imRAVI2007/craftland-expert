@@ -26,6 +26,6 @@ Read [REPOSITORY.md](REPOSITORY.md), identify the project, then open its project
 
 ## Limits
 
-Project-specific mechanics, data schemas, IDs, asset counts, and workflows are not interchangeable. Website, Discord, authentication, deployment, and external API systems were not established in the inspected local project trees; absence beyond those scopes is unknown. Project 6's inventory is complete but semantic inspection is partial. No open-source license has been selected; see [LICENSE](LICENSE). The repository is available as a private GitHub repository at [imRAVI2007/craftland-expert](https://github.com/imRAVI2007/craftland-expert).
+Project-specific mechanics, data schemas, IDs, asset counts, and workflows are not interchangeable. Website, Discord, authentication, deployment, and external API systems were not established in the inspected local project trees; absence beyond those scopes is unknown. Project 6's inventory is complete but semantic inspection is partial. No open-source license has been selected; see [LICENSE](LICENSE). The repository is public on GitHub at [imRAVI2007/craftland-expert](https://github.com/imRAVI2007/craftland-expert).
 
 See [INSTALL.md](INSTALL.md) for the global core-skill installation and update process.

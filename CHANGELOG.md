@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-23 — Repository made public
+
+- Changed the GitHub repository visibility to public at the user's request and updated the README to match.
+
 ## 2026-11-23 — GitHub repository setup
 
 - Created the private `craftland-expert` GitHub repository and pushed the existing `main` baseline without rewriting history; no license was selected.
