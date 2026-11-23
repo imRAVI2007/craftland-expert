@@ -1,0 +1,4 @@
+# Preserve historical source snapshots and verbatim instruction copies byte-for-byte.
+Craftland-Extraction/** -text
+sources/hungry-fish-2.0/instructions/** -text
+sources/hungry-fish-2.0/indexes/*.csv -text

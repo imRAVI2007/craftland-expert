@@ -1,0 +1,8 @@
+# Ignore local working files; no extracted source is committed here by default.
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
